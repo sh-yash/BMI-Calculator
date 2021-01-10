@@ -16,8 +16,9 @@ We’re have created  Body Mass Index Calculator inspired by the beautiful desig
 
 We have coded this beautiful application using Flutter with DART ,which makes this support run on different OS i.e for Android and iOS.
 
-We have used free OpenWeatherMap api for fetching the climate data.
-
-OpenWeatherMap.org => Access current weather data for any location on Earth including over 200,000 cities! We collect and process weather data from different sources such as global and local weather models, satellites, radars and vast network of weather stations. Data is available in JSON, XML, or HTML format
+Project inspired or tutored by london app brewery..
+- https://pub.dev/packages/
+- https://flutter.dev/docs/development/ui/widgets/material
+- https://flutter.dev/docs/development/ui/widgets
 
 ![End Banner App](https://github.com/sh-yash/BMI-Calculator/blob/master/readme-end-banner.png)
